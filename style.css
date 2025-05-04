@@ -1,0 +1,220 @@
+body
+{
+    background: linear-gradient(to bottom, #383c44, #383c44);
+    height: 100vh; /* Ensure it covers the full screen */
+    margin: 0; /* Remove default margin */
+}
+
+#centeredTopText
+{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    color: rgb(0, 0, 0);
+}
+
+#box1
+{
+    border: 200px solid;
+    border-color: #e8f4f4;
+    /*this may be very inefficient but whatever ^^^*/
+    height: 400;
+    width: 400;
+}
+
+#centeredTopGalleryImage1
+{
+    position: absolute;
+    top: 10%;
+    left: 25%;
+    transform: translate(-0%, -0%);
+}
+
+#centeredAboutText
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#centeredAboutText2
+{
+    position: absolute;
+    top: 50%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+/*stuff for project fts*/
+#game1PFTS
+{
+    position: absolute;
+    top: 60%;
+    left: 17%;
+    scale: 0.5;
+    transform: translate(-0%, -0%);
+}
+
+#game1PFTStext
+{
+    position: absolute;
+    top: 72%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#game1PFTStextrelease
+{
+    position: absolute;
+    top: 72%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+/*stuff for axe engine*/
+#game1axeengine
+{
+    position: absolute;
+    top: 85%;
+    left: 17%;
+    scale: 0.5;
+    transform: translate(-0%, -0%);
+}
+
+#game1axeenginetext
+{
+    position: absolute;
+    top: 96%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#game1axeenginetextrelease
+{
+    position: absolute;
+    top: 96%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+/*stuff for ghost clash*/
+#game1ghostClash
+{
+    position: absolute;
+    top: 110%;
+    left: 17%;
+    scale: 0.5;
+    transform: translate(-0%, -0%);
+}
+
+#game1ghostClashtext
+{
+    position: absolute;
+    top: 121%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#game1ghostClashtextrelease
+{
+    position: absolute;
+    top: 121%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+/*stuff for rouge ops*/
+#game1rougeOps
+{
+    position: absolute;
+    top: 135%;
+    left: 17%;
+    scale: 0.5;
+    transform: translate(-0%, -0%);
+}
+
+#game1rougeOpstext
+{
+    position: absolute;
+    top: 146%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#game1rougeOpstextrelease
+{
+    position: absolute;
+    top: 146%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#buttonHomenNews
+{
+    position: fixed;
+    top: 95%;
+    left: 5%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
