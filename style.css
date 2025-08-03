@@ -62,6 +62,45 @@ body
     color: white;
 }
 
+#centeredAboutText3
+{
+    position: absolute;
+    top: 60%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#centeredAboutText4
+{
+    position: absolute;
+    top: 67%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#centeredAboutText5
+{
+    position: absolute;
+    top: 73%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
 /*stuff for project fts*/
 #game1PFTS
 {
@@ -211,6 +250,19 @@ body
     position: fixed;
     top: 95%;
     left: 5%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+#buttonPeople
+{
+    position: fixed;
+    top: 95%;
+    left: 10%;
     transform: translate(-50%, -50%);
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
