@@ -137,6 +137,19 @@ body
     color: white;
 }
 
+#game1PFTStextdownload
+{
+    position: absolute;
+    top: 74%;
+    left: 49.5%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
 /*stuff for axe engine*/
 #game1axeengine
 {
@@ -165,6 +178,19 @@ body
     position: absolute;
     top: 96%;
     left: 55%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+#game1axeenginetextdownload
+{
+    position: absolute;
+    top: 98%;
+    left: 49.5%;
     transform: translate(-50%, -50%);
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
@@ -209,6 +235,19 @@ body
     color: white;
 }
 
+#game1ghostClashtextdownload
+{
+    position: absolute;
+    top: 123%;
+    left: 49.5%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
 /*stuff for rouge ops*/
 #game1rougeOps
 {
@@ -244,6 +283,21 @@ body
     text-align: center;
     color: white;
 }
+
+#game1rougeOpstextdownload
+{
+    position: absolute;
+    top: 148%;
+    left: 49.5%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+/*button stuff*/
 
 #buttonHomenNews
 {
