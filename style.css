@@ -324,3 +324,32 @@ body
     text-align: center;
     color: rgb(0, 0, 0);
 }
+
+/*game teaser stuff*/
+
+#gameTeaser1
+{
+    position: absolute;
+    top: 25;
+    left: -5;
+    scale: 0.5;
+    transform: translate(-15%, -0%);
+}
+
+#gameTeaser2
+{
+    position: absolute;
+    top: 25;
+    left: 150;
+    scale: 0.5;
+    transform: translate(105%, -0%);
+}
+
+#gameTeaserNAME
+{
+    position: absolute;
+    top: 25;
+    left: 150;
+    scale: 0.5;
+    transform: translate(85%, 860%);
+}
