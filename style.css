@@ -353,3 +353,16 @@ body
     scale: 0.5;
     transform: translate(85%, 860%);
 }
+
+#releaseDate
+{
+    position: absolute;
+    top: 55%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
